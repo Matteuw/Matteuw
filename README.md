@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 😁
+## Hi 🙌🏾, i'm Matteuw
 
  <div>
    <a href="https://github.com/Matteuw">
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Formas de contato
+  ## Social Contacts
  
 <div> 
   <a href = "mateusmaia212@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=Email&logoColor=white" target="_blank"></a>
